@@ -1,0 +1,40 @@
+{
+  "main": {
+    "id": "18c09f91242e15d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c9c1ccf4ea093b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53eb24a0279b9ced",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7b68037df8a37f94",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2c9c1ccf4ea093b",
+  "lastOpenFiles": [
+    "未命名.md"
+  ]
+}
