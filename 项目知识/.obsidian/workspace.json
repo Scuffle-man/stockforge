@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "779cbdae02487c56",
+        "id": "35f6e950fd25a128",
         "type": "tabs",
         "children": [
           {
-            "id": "8e7a3d37f5ee3146",
+            "id": "a44bba38b2c6eb15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,13 +183,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8e7a3d37f5ee3146",
+  "active": "a44bba38b2c6eb15",
   "lastOpenFiles": [
+    "Pasted image 20260718025346.png",
+    "1.前置准备/功能实现/🐳 4.github仓库设置.md",
     "1.前置准备/提示词/🤖4.实现github仓库的提示词.md",
     "1.前置准备/提示词/🤖3.库存管理系统整体设计文档.md",
     "1.前置准备/提示词/全栈库存管理系统 · 技术详解.md",
-    "1.前置准备/功能实现/🐳 4.github仓库设置.md",
-    "Pasted image 20260718025346.png",
     "欢迎.md",
     "1.前置准备/教程/教程.md",
     "1.前置准备/教程",
