@@ -1,0 +1,9 @@
+# 忽略某个文件
+secret.txt
+
+# 忽略某个目录
+.history/
+项目知识/.obsidian/
+
+# 忽略所有 .log 文件
+*.log
